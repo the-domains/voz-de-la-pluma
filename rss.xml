@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Voz de la Pluma]]></title>
+        <description><![CDATA[Voz de la Pluma]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 22 Jun 2016 01:52:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>undefinedaf580a84-82dd-4028-b903-8f3633b0fd09/index.html</link>
+            <guid isPermaLink="false">af580a84-82dd-4028-b903-8f3633b0fd09</guid>
+            <pubDate>Wed, 22 Jun 2016 01:51:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
