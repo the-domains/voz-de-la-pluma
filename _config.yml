@@ -1,0 +1,28 @@
+name: Voz de la Pluma
+favicon: null
+layout_spectrum: 0.32033078325912356
+typography_spectrum: 0.6880614026449621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6173043150920421
+  lightness: 0.005723520880565047
+  saturation: 0.33833247516304255
+  rhythmicContrast: 0.8727996705565602
+purpose: []
